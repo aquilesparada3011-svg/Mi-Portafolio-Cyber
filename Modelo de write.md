@@ -12,7 +12,9 @@
 ### Tarea A: Análisis de Logs / Red 
 Explicas qué buscaste: *"Utilicé el comando `grep` para filtrar fallos de inicio de sesión..."* 
 > [!INFO] Captura de evidencia 
-> ![Pega aquí tu imagen con una flecha resaltando el error] ### Tarea B: Resolución de Desafíos *"Para obtener la flag de la tarea 3, tuve que decodificar un mensaje en Base64 usando CyberChef..."* 
+> ![Pega aquí tu imagen con una flecha resaltando el error] 
+### Tarea B: Resolución de Desafíos 
+*"Para obtener la flag de la tarea 3, tuve que decodificar un mensaje en Base64 usando CyberChef..."* 
 ## 3. Conclusiones y Lecciones Aprendidas 
 *Esto es lo que más miran los reclutadores.* * **Lo que aprendí:** Cómo identificar patrones de fuerza bruta en logs de tráfico. * **Desafío superado:** Al principio no encontraba el archivo, pero usé `find` y logré localizarlo. 
 ## 4. Recomendaciones (Blue Team Mindset) 
