@@ -58,9 +58,37 @@
               "icon": "lucide-file",
               "title": "Modelo write GRC"
             }
+          },
+          {
+            "id": "ce7866f5c51d0f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privado/Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "2e65ebc67da262d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privado/Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,11 +251,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ab57bce9d2f210e2",
+  "active": "2e65ebc67da262d2",
   "lastOpenFiles": [
+    "Privado/Sin título 1.md",
+    "Privado/Sin título.md",
+    "Modelo write GRC.md",
     "Privado",
     "Modelo de write.md",
-    "Modelo write GRC.md",
     "SOC.md",
     "Sin título.canvas",
     "Red.md",
