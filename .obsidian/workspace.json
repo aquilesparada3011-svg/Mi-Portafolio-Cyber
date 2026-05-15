@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privado/Network Fundamentals.md",
+                "file": "Privado/Sin título 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Fundamentals"
+              "title": "Sin título 1"
             }
           }
         ],
@@ -253,8 +253,8 @@
   },
   "active": "2e65ebc67da262d2",
   "lastOpenFiles": [
-    "Privado/Sin título 1.md",
     "Privado/Network Fundamentals.md",
+    "Privado/Sin título 1.md",
     "Modelo write GRC.md",
     "Privado",
     "Modelo de write.md",
