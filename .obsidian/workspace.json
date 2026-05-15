@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privado/Sin título.md",
+                "file": "Privado/Network Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Network Fundamentals"
             }
           },
           {
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privado/Sin título.md",
+                "file": "Privado/Network Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Network Fundamentals"
             }
           }
         ],
@@ -254,7 +254,7 @@
   "active": "2e65ebc67da262d2",
   "lastOpenFiles": [
     "Privado/Sin título 1.md",
-    "Privado/Sin título.md",
+    "Privado/Network Fundamentals.md",
     "Modelo write GRC.md",
     "Privado",
     "Modelo de write.md",
