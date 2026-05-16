@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privado/Bandit/Sin título 1.md",
+                "file": "Privado/Bandit/BANDIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título 1"
+              "title": "BANDIT"
             }
           },
           {
@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privado/Bandit/Sin título 1.md",
+                "file": "Privado/Bandit/BANDIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título 1"
+              "title": "BANDIT"
             }
           }
         ],
@@ -268,7 +268,7 @@
   "active": "ed1a5e3214586415",
   "lastOpenFiles": [
     "Privado/Bandit/Level 2.md",
-    "Privado/Bandit/Sin título 1.md",
+    "Privado/Bandit/BANDIT.md",
     "Privado/Bandit",
     "Privado/Network Fundamentals.md",
     "Modelo write GRC.md",
